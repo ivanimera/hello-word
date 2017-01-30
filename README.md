@@ -1,5 +1,5 @@
 # hello-word
-Hi Scientists and Social Scientist alike!
+Hi Scientists and Social Scientists alike!
 
 Name's Ivan and this is my first incursion into github. I am a Rutgers University MBS student in
 Analytics: Discovery Informatics and Data Science. I am glad to see that their is a broad community that
